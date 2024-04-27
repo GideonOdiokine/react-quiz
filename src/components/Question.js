@@ -3,7 +3,7 @@ import Option from './Option';
 
 
 const Question = ({ question, dispatch, answer }) => {
-  console.log(question);
+//   console.log(question);
   return (
     <div>
       <h4>{question.question}</h4>
